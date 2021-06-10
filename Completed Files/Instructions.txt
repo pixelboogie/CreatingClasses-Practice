@@ -1,0 +1,34 @@
+
+Practice Creating Classes in C#
+
+1st Challenge
+--------------------------------------------------
+
+1. Add at least two classes to your program—one class for each type of item—or media type—that can be added to your media library.
+  a) Define each class using the `class` keyword within its own C# code file. 
+  b) Use "Treehouse.MediaLibrary" for the namespace.
+
+2. Add at least two public fields to each media type class that you added in step #1.
+  a) Each field definition should include an access modifier, a data type, and a name.
+
+Media Type Examples
+
+* Album media type, with `Title` and `Artist` fields
+* Book media type, with `Title` and `Author` fields
+* Movie media type, with `Title` and `Director` fields
+
+2nd Challenge
+--------------------------------------------------
+
+1. In the Program.cs file `Main()` method, use the `new` keyword to create at least one instance of each of your media type classes.
+
+2. For each of the objects that you create, set each field to an appropriate value.
+
+3rd Challenge
+--------------------------------------------------
+
+1. Add a constructor to each of your media type classes.
+
+2. Define a constructor parameter for each of the media type's required fields and use those parameter values to initialize its fields.
+
+3. Update the Program.cs file `Main()` method in order for your program to successfully compile.
